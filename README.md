@@ -10,17 +10,17 @@ Basic BMI calculator
 
 bmi(weight, height)
 
-#### Arguments
+### Arguments
 
 weight in kg
 
 height in cm
 
-##### Value
+### Value
 
 value of BMI in kg/m2
 
-###### Examples
+### Examples
 
 Input: bmi(103, 171)
 Output: Your BMI is 35.22451 and it is considered as obese
